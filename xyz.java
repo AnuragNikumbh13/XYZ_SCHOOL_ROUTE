@@ -1,4 +1,4 @@
-package com.dietcraft.server.controller;
+package com.xyz.schoolbus;
 
 import java.util.*;
 
@@ -212,5 +212,6 @@ public class XYZSchoolBusRouteSystem {
         System.out.println("Total Distance Covered = " + totalDist + " km");
     }
 }
+
 
 
